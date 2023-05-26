@@ -95,8 +95,8 @@ html {
 /** Head **/
 .head {
   display: block;
-  width: 250px;
-  height: 250px;
+  width: 300px;
+  height: 300px;
   border-radius: 50%;
   background-color: #F57F17;
   border-radius: 80% 80% 50% 50%;
