@@ -95,7 +95,7 @@ html {
 /** Head **/
 .head {
   display: block;
-  width: 250px;
+  width: 300px;
   height: 250px;
   border-radius: 50%;
   background-color: #F57F17;
@@ -117,7 +117,7 @@ html {
   width: 17.5px;
   height: 17.5px;
   border-radius: 50%;
-  background-color: #F5F5F5;
+  background-color: #a51515;
 }
 .white-spots::after {
   content: " ";
