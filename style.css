@@ -98,7 +98,7 @@ html {
   width: 250px;
   height: 250px;
   border-radius: 50%;
-  background-color: #3517f5;
+  background-color: #f57f17;
   border-radius: 80% 80% 50% 50%;
   z-index: 10;
 }
@@ -117,7 +117,7 @@ html {
   width: 17.5px;
   height: 17.5px;
   border-radius: 50%;
-  background-color: #F5F5F5;
+  background-color: #f5f5f5;
 }
 .white-spots::after {
   content: " ";
@@ -125,15 +125,15 @@ html {
   width: 17.5px;
   height: 17.5px;
   border-radius: 50%;
-  background-color: #F5F5F5;
+  background-color: #f5f5f5;
 }
 
 .eye {
   display: block;
-  width: 50px;
-  height: 50px;
+  width: 100px;
+  height: 100px;
   border-radius: 50%;
-  background-color: #F5F5F5;
+  background-color: #f5f5f5;
   overflow: hidden;
 }
 .eye.left {
@@ -168,7 +168,7 @@ html {
   width: 50px;
   height: 50px;
   border-radius: 50%;
-  background-color: #F57F17;
+  background-color: #f57f17;
   display: block;
   content: " ";
   height: 0;
@@ -229,7 +229,7 @@ html {
 }
 
 .ear {
-  background-color: #F57F17;
+  background-color: #f57f17;
   width: 62.5px;
   height: 37.5px;
   border-radius: 30% 30% 50% 50%;
@@ -330,7 +330,7 @@ html {
 .tongue {
   width: 25px;
   height: 37.5px;
-  background-color: #F48FB1;
+  background-color: #f48fb1;
   border-radius: 10px;
   position: absolute;
   top: 200px;
@@ -345,7 +345,7 @@ html {
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  background-color: #F57F17;
+  background-color: #f57f17;
   width: 175px;
   position: absolute;
   top: 225px;
@@ -359,7 +359,7 @@ html {
   width: 125px;
   height: 125px;
   border-radius: 50%;
-  background-color: #F5F5F5;
+  background-color: #f5f5f5;
   height: 175px;
   position: absolute;
   top: 50px;
@@ -367,7 +367,7 @@ html {
 }
 
 .arm {
-  background-color: #F57F17;
+  background-color: #f57f17;
   width: 75px;
   height: 37.5px;
   border-radius: 30% 30% 50% 50%;
@@ -424,7 +424,7 @@ html {
 }
 
 .foot {
-  background-color: #F57F17;
+  background-color: #f57f17;
   width: 75px;
   height: 50px;
   border-radius: 40%;
